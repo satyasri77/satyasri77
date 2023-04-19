@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satyasri77
 - 👀 I’m interested in solving business problems using machine learning,NLP and artificial interlligence
-- 🌱 I’m currently learning to approach problems from different angle to give the best solutions using technology
-- 💞️ I’m looking to collaborate on different ML related projects in different domains using technology in real life applications
+- 🌱 I’m currently exploring model deployment using Flask, image segmentation, and pre trained LLM models
+- 💞️ I’m looking to collaborate and learn from data science and AI community in building models for better future
 - 📫 Can reach me over e-mail (satyasriallaka77@gmail.com) or phone (7893308805) 
 
 <!---
