@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @satyasri77
-- 👀 I’m interested in solving complex business problems using machine learning,NLP and artificial interlligence
-- 🌱 I’m currently exploring model deployment using Flask, image segmentation, and pre trained LLM models
-- 💞️ I’m looking to collaborate and learn from data science and AI community in building models for better future
-- 📫 Can reach me over e-mail (satyasriallaka77@gmail.com) or phone (7893308805) 
+  
+- 👀 I'm passionate about bridging the gap between ML and AI application and value add that can be generated for the business
+- 🌱 I help business stakeholders to take data-driven decisions using actional insights
+- 📫 If you want to discuss about the value add of ML/AI technologies and collaborate, can reach out to me over e-mail (satyasriallaka77@gmail.com) 
 
 <!---
 satyasri77/satyasri77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
